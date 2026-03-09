@@ -43,6 +43,10 @@
 - **Quality Over Hype** — Built to last, not to be replaced every 6 months
 - **Free USA Shipping** — On all orders
 
+## Featured Project: Disclosure Day Fan Hub
+
+We built [disclosureday.nicedreamzwholesale.com](https://disclosureday.nicedreamzwholesale.com) — a 40+ page interactive fan site for the upcoming Spielberg film, featuring an AI chatbot ("The Signal"), meme generator, countdown timer, and deep-dive content. Built with Flask, custom CSS, and Claude AI. [View on GitHub](https://github.com/nicedreamzapp/DisclosureDay)
+
 ## About the Founder
 
 Built and run by **[Matt from Nice Dreamz LLC](https://github.com/nicedreamzapp)** — a self-taught developer with 16 open-source projects spanning AI, iOS apps, robotics, and business automation. The same person behind the [Divine Tribe Chatbot](https://github.com/nicedreamzapp/divine-tribe-chatbot), [RealTimeAICam](https://github.com/nicedreamzapp/RealTimeAICam) (601-object iPhone detection), a [chicken-guarding robot](https://github.com/nicedreamzapp/CemaniHomesteadRobot), and a [Parkinson's disease predictor](https://github.com/nicedreamzapp/parkinsons-vulnerability-predictor).
